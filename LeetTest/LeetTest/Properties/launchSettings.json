@@ -1,0 +1,58 @@
+{
+  "profiles": {
+    "1.TwoSum.cs": {
+      "commandName": "Project"
+    },
+    "1423.MaximumPointsYouCanObtainfromCards.cs": {
+      "commandName": "Project"
+    },
+    "242.ValidAnagramm.cs": {
+      "commandName": "Project"
+    },
+    "49.GroupAnagram.cs": {
+      "commandName": "Project"
+    },
+    "54 - Copy.SpiralMatrix.cs": {
+      "commandName": "Project"
+    },
+    "566.ReshapeTheMatrix.cs": {
+      "commandName": "Project"
+    },
+    "766.Toeplitz Matrix.cs": {
+      "commandName": "Project"
+    },
+    "867.TransposeMatrix.cs": {
+      "commandName": "Project"
+    },
+    "BinaryOperations.cs": {
+      "commandName": "Project"
+    },
+    "CarPooling.cs": {
+      "commandName": "Project"
+    },
+    "FindPivotIndex.cs": {
+      "commandName": "Project"
+    },
+    "InsertInterval.cs": {
+      "commandName": "Project"
+    },
+    "kSum.cs": {
+      "commandName": "Project"
+    },
+    "MergeIntervals.cs": {
+      "commandName": "Project"
+    },
+    "NextPermutation.cs": {
+      "commandName": "Project"
+    },
+    "RomanToInteger.cs": {
+      "commandName": "Project"
+    },
+    "SubarraySumEqualsK.cs": {
+      "commandName": "Project"
+    },
+    "TrappingRainWater.cs": {
+      "commandName": "Project"
+    }
+  }
+}
