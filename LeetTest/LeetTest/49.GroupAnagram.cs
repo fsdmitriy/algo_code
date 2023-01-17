@@ -1,28 +1,27 @@
-﻿using System.ComponentModel.DataAnnotations;
-
+﻿
 GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
+GroupAnagrams(new string[] { "" });
+GroupAnagrams(new string[] { "a" });
 
 
 IList<IList<string>> GroupAnagrams(string[] strs)
 {
-	var result = new List<IList<string>>(1);
-
-	var dict = new Dictionary<int[], List<string>>();
+    var dict = new Dictionary<string, IList<string>>();
 
 	for (int i = 0; i < strs.Length; i++)
 	{
-		var count = new int[26];
-
-		for (int j = 0; j < strs[i].Length; j++)
+		char[] characters = strs[i].ToCharArray();
+		Array.Sort(characters);
+		var sortedString = new string(characters);
+        if (dict.TryGetValue(sortedString, out IList<string> group))
 		{
-			count[strs[i][j] - 'a'] += 1;
-		}
-
-		if (!dict.ContainsKey(count))
-			dict[count] = new List<string> { strs[i] };
+			group.Add(strs[i]);
+        }
 		else
-			dict[count].Add(strs[i]);
+		{
+			dict.Add(sortedString, new List<string> { strs[i] });
+        }	
 	}
 
-	return result;
+	return dict.Values.ToList();
 }
