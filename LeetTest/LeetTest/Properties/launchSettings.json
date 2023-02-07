@@ -3,10 +3,34 @@
     "1.TwoSum.cs": {
       "commandName": "Project"
     },
+    "11.ContainerWithMostWater.cs": {
+      "commandName": "Project"
+    },
+    "121.BestTimetoBuyandSellStock.cs": {
+      "commandName": "Project"
+    },
+    "125.ValidPalindrome.cs": {
+      "commandName": "Project"
+    },
     "128.LongestConsecutiveSequence.cs": {
       "commandName": "Project"
     },
     "1423.MaximumPointsYouCanObtainfromCards.cs": {
+      "commandName": "Project"
+    },
+    "15.3Sum.cs": {
+      "commandName": "Project"
+    },
+    "152.MaximumProductSubarray.cs": {
+      "commandName": "Project"
+    },
+    "206.ReverseLinkedList.cs": {
+      "commandName": "Project"
+    },
+    "2130.MaximumTwinSumofaLinkedList.cs": {
+      "commandName": "Project"
+    },
+    "234.PalindromeLinkedList.cs": {
       "commandName": "Project"
     },
     "238.ProductofArrayExceptSelf.cs": {
@@ -15,7 +39,13 @@
     "242.ValidAnagramm.cs": {
       "commandName": "Project"
     },
+    "3.LongestSubstringWithoutRepeatingCharacters.cs": {
+      "commandName": "Project"
+    },
     "347.TopKFrequentElements.cs": {
+      "commandName": "Project"
+    },
+    "424.LongestRepeatingCharacterReplacement.cs": {
       "commandName": "Project"
     },
     "49.GroupAnagram.cs": {
