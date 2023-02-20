@@ -18,13 +18,25 @@
     "1423.MaximumPointsYouCanObtainfromCards.cs": {
       "commandName": "Project"
     },
+    "143.ReorderList.cs": {
+      "commandName": "Project"
+    },
     "15.3Sum.cs": {
       "commandName": "Project"
     },
     "152.MaximumProductSubarray.cs": {
       "commandName": "Project"
     },
+    "153.FindMinimuminRotatedSortedArray.cs": {
+      "commandName": "Project"
+    },
+    "20.ValidParentheses.cs": {
+      "commandName": "Project"
+    },
     "206.ReverseLinkedList.cs": {
+      "commandName": "Project"
+    },
+    "21.MergeTwoSortedLists.cs": {
       "commandName": "Project"
     },
     "2130.MaximumTwinSumofaLinkedList.cs": {
@@ -42,6 +54,9 @@
     "3.LongestSubstringWithoutRepeatingCharacters.cs": {
       "commandName": "Project"
     },
+    "33.SearchinRotatedSortedArray.cs": {
+      "commandName": "Project"
+    },
     "347.TopKFrequentElements.cs": {
       "commandName": "Project"
     },
@@ -55,6 +70,9 @@
       "commandName": "Project"
     },
     "566.ReshapeTheMatrix.cs": {
+      "commandName": "Project"
+    },
+    "76.MinimumWindowSubstring.cs": {
       "commandName": "Project"
     },
     "766.Toeplitz Matrix.cs": {
