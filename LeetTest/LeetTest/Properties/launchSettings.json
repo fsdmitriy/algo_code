@@ -15,6 +15,9 @@
     "128.LongestConsecutiveSequence.cs": {
       "commandName": "Project"
     },
+    "141.LinkedListCycle.cs": {
+      "commandName": "Project"
+    },
     "1423.MaximumPointsYouCanObtainfromCards.cs": {
       "commandName": "Project"
     },
@@ -30,6 +33,9 @@
     "153.FindMinimuminRotatedSortedArray.cs": {
       "commandName": "Project"
     },
+    "19.RemoveNthNodeFromEndofList.cs": {
+      "commandName": "Project"
+    },
     "20.ValidParentheses.cs": {
       "commandName": "Project"
     },
@@ -40,6 +46,9 @@
       "commandName": "Project"
     },
     "2130.MaximumTwinSumofaLinkedList.cs": {
+      "commandName": "Project"
+    },
+    "23.MergekSortedLists.cs": {
       "commandName": "Project"
     },
     "234.PalindromeLinkedList.cs": {
