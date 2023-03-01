@@ -3,6 +3,12 @@
     "1.TwoSum.cs": {
       "commandName": "Project"
     },
+    "100.SameTree.cs": {
+      "commandName": "Project"
+    },
+    "104.MaximumDepthofBinaryTree.cs": {
+      "commandName": "Project"
+    },
     "11.ContainerWithMostWater.cs": {
       "commandName": "Project"
     },
@@ -46,6 +52,9 @@
       "commandName": "Project"
     },
     "2130.MaximumTwinSumofaLinkedList.cs": {
+      "commandName": "Project"
+    },
+    "226.InvertBinaryTree.cs": {
       "commandName": "Project"
     },
     "23.MergekSortedLists.cs": {
