@@ -6,13 +6,22 @@
     "100.SameTree.cs": {
       "commandName": "Project"
     },
+    "102.BinaryTreeLevelOrderTraversal.cs": {
+      "commandName": "Project"
+    },
     "104.MaximumDepthofBinaryTree.cs": {
+      "commandName": "Project"
+    },
+    "105.ConstructBinaryTreefromPreorderandInorderTraversal.cs": {
       "commandName": "Project"
     },
     "11.ContainerWithMostWater.cs": {
       "commandName": "Project"
     },
     "121.BestTimetoBuyandSellStock.cs": {
+      "commandName": "Project"
+    },
+    "124.BinaryTreeMaximumPathSum.cs": {
       "commandName": "Project"
     },
     "125.ValidPalindrome.cs": {
@@ -60,13 +69,22 @@
     "23.MergekSortedLists.cs": {
       "commandName": "Project"
     },
+    "230.KthSmallestElementinaBST.cs": {
+      "commandName": "Project"
+    },
     "234.PalindromeLinkedList.cs": {
+      "commandName": "Project"
+    },
+    "235.LowestCommonAncestorofaBinarySearchTree.cs": {
       "commandName": "Project"
     },
     "238.ProductofArrayExceptSelf.cs": {
       "commandName": "Project"
     },
     "242.ValidAnagramm.cs": {
+      "commandName": "Project"
+    },
+    "297.SerializeAndDeserializeBinaryTree.cs": {
       "commandName": "Project"
     },
     "3.LongestSubstringWithoutRepeatingCharacters.cs": {
@@ -81,6 +99,9 @@
     "424.LongestRepeatingCharacterReplacement.cs": {
       "commandName": "Project"
     },
+    "450.DeleteNodeinaBST.cs": {
+      "commandName": "Project"
+    },
     "49.GroupAnagram.cs": {
       "commandName": "Project"
     },
@@ -90,6 +111,12 @@
     "566.ReshapeTheMatrix.cs": {
       "commandName": "Project"
     },
+    "572.SubtreeofAnotherTree.cs": {
+      "commandName": "Project"
+    },
+    "701.InsertintoaBinarySearchTree.cs": {
+      "commandName": "Project"
+    },
     "76.MinimumWindowSubstring.cs": {
       "commandName": "Project"
     },
@@ -97,6 +124,9 @@
       "commandName": "Project"
     },
     "867.TransposeMatrix.cs": {
+      "commandName": "Project"
+    },
+    "98.ValidateBinarySearchTree.cs": {
       "commandName": "Project"
     },
     "BinaryOperations.cs": {
@@ -112,6 +142,9 @@
       "commandName": "Project"
     },
     "kSum.cs": {
+      "commandName": "Project"
+    },
+    "MergeArrays.cs": {
       "commandName": "Project"
     },
     "MergeIntervals.cs": {

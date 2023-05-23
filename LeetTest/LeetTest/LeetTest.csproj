@@ -28,4 +28,8 @@
     <None Remove="766.Toeplitz Matrix.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="MergeArrays.cs" />
+  </ItemGroup>
+
 </Project>
